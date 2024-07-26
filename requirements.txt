@@ -1,3 +1,4 @@
+git+https://github.com/X-Gorn/pyrogram.git@dev
 TgCrypto
 aiohttp
 yt-dlp
