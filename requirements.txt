@@ -1,4 +1,3 @@
-git+https://github.com/X-Gorn/pyrogram.git@dev
 TgCrypto
 aiohttp
 yt-dlp
@@ -9,3 +8,4 @@ Pillow
 motor
 dnspython
 python-dotenv
+pyrogram==2
